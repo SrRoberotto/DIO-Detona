@@ -1,9 +1,5 @@
 Detona Ralph
 
-<p align="center">
-  <img src="https://github.com/digitalinnovationone/jsgame-detona-ralph/raw/main/assets/images/logo.png" alt="JSGame Detona Ralph Logo">
-</p>
-
 ### Tecnologias Utilizadas
 
 - HTML5 e CSS3 para a estrutura e aparência do jogo.
